@@ -11,7 +11,7 @@ What you can buy in the market with the money you earn from the fish you catch:
 - Offline Earnings: Allows you to earn more money when you return to the game.
 
 
-
+## Images
 <p align="center">
 <img src="https://user-images.githubusercontent.com/60680749/151640250-9666dd54-55c2-435c-8cfb-999310fe847a.png" width="250" height="400">
 <img src="https://user-images.githubusercontent.com/60680749/151640252-3a55be26-9bc9-4550-ac40-1c0e21b32520.png" width="250" height="400">
