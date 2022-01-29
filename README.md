@@ -20,4 +20,4 @@ What you can buy in the market with the money you earn from the fish you catch:
 
 ## Gameplay Video
 <video src="https://user-images.githubusercontent.com/60680749/151640147-f0dcc800-c5b5-4e34-9fbd-a2b241124050.mp4" width="400">
-https://user-images.githubusercontent.com/60680749/151640147-f0dcc800-c5b5-4e34-9fbd-a2b241124050.mp4
+
